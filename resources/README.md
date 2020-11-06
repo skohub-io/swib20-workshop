@@ -36,6 +36,8 @@ See [here](/resources/install-and-overview-skohub-vocabs.md) for a short summary
 
 ### Install SkoHub Editor & Extension
 
+See [here](/resources/install-and-overview-skohub-editor.md) for a short summary of the topics covered in the video.
+
 ## 3 Using SkoHub Docker version
 
 ## 4 Publishing a small controlled vocabulary with SkoHub Vocabs
