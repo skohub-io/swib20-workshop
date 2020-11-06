@@ -1,8 +1,6 @@
 # SkoHub Workshop at SWIB20
 
-This repository contains material for the [SkoHub workshop at SWIB20](https://swib.org/swib20/programme.html#abs08). The workshop includes short video presentatios and hands-on exercises, which can be explored via the [overview page](resources/README.md). 
-
-The workshop includes short **video presentatios** and **hands-on exercises**.
+This repository contains material for the [SkoHub workshop at SWIB20](https://swib.org/swib20/programme.html#abs08). The workshop includes short video presentatios and hands-on exercises, which can be explored via the [**overview page**](resources/README.md). 
 
 ## Prerequisites
 
