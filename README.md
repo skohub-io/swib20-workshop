@@ -6,8 +6,9 @@ The workshop includes short **video presentatios** and **hands-on exercises**.
 
 ## Prerequisites
 
-- a computer with a browser and text editor
-- a GitHub account
+- computer with a browser and text editor
+- internet connection
+- GitHub account
 
 ## Online workshop session
 
