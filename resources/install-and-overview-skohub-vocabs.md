@@ -41,7 +41,9 @@ Copy an example SKOS file to the data folder:
 
 To build a vocabulary you have to provide one (or multiple) valid SKOS-file in the `data`-folder of skohub-vocabs and run the `npm run build`-command.
 This will build a `public`-folder with the `html` and `json` representations of your vocabulary.
-This way you get nice human readable and at the same time nice machine readable versions of your vocabulary.
+This way you get nice human readable and at the same time nice machine readable versions of your vocabulary:
+- see <https://skohub.io/dini-ag-kim/hochschulfaechersystematik/heads/master/w3id.org/kim/hochschulfaechersystematik/scheme.html> for a human readable version
+- see <https://skohub.io/dini-ag-kim/hochschulfaechersystematik/heads/master/w3id.org/kim/hochschulfaechersystematik/scheme.json> for the same page as a machine readable version.
 
 After you made changes to your .env or data/* files, make sure to delete the .cache directory:
 
