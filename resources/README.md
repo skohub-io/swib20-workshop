@@ -32,6 +32,8 @@ The main modules have a dedicated post:
 
 ### Install SkoHub Vocabs
 
+[![Video](/img/skohub-vocabs-local-setup.png)](https://www.youtube.com/watch?v=d3RRWt16F8w)
+
 See [here](/resources/install-and-overview-skohub-vocabs.md) for a short summary of the topics covered in the video.
 
 ### Install SkoHub Editor & Extension
