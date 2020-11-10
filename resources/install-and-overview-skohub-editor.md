@@ -1,6 +1,6 @@
 # SkoHub Editor
 
-The [editor](https://skohub.io/editor/) is used for describing resources on the web and working closley together with the vocabs tool.
+The [editor](https://skohub.io/editor/) is used for describing resources on the web and working closely together with the vocabs tool.
 It is also capable of sending notifications based on the [Activity Pub Protocol](https://www.w3.org/TR/activitypub/).
 
 ## Install
