@@ -6,7 +6,7 @@ Prerequisite: GitHub account
 
 ## Scenario
 
-In this exercise, we set up an example controlled vocabulary with SkoHub Vocabs to classify learning material by school subject. 
+In this exercise, we set up an example controlled vocabulary with SkoHub Vocabs to classify learning material by school subject.
 
 ## Step 1: Set up your skohub-docker-vocabs repository
 
@@ -19,7 +19,7 @@ For a start, I need a basic list of school subjects: maths, english, science, hi
 ## Step 3: Make it SKOS
 
 - Use an already functioning vocabulary as template, e.g. [HCRT](https://github.com/dini-ag-kim/hcrt/blob/master/hcrt.ttl).
-- Questions: 
+- Decisions to make:
     - Hash or slash URIs? 
     - Should I use a persistent identifier scheme? If yes, which one: [w3id.org](https://w3id.org/), [PURL](http://purl.org)?
 
@@ -33,6 +33,10 @@ For a start, I need a basic list of school subjects: maths, english, science, hi
 # Step 5: Add some hierarchy to the vocabulary
 
 There is some granularity missing with "foreign languages". I want to add specific languages to better classify the material. We use `skos:broader`/`skos:narrower` to add sub-concepts to `foreignLanguages`.
+
+# Step 6: Set up redirect for persistent identifiers
+
+If you are using PURL or w3id, you have to set up the redirect so that the permanent URIs resolve.
 
 # Step 6: Publish and use it
 
