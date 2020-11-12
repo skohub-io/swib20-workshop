@@ -44,7 +44,7 @@ This is how the the purl.org config looks like setting up the redirect for [this
 
 To set up the w3id redirect, you have to clone the [w3id repo](https://github.com/perma-id/w3id.org) and make a pull request that contains a [.htaccess](https://en.wikipedia.org/wiki/.htaccess) config for the namespace. As soon as such a pull request is merged, the redirect will work. As an example, this is what the changes in the [pull request](https://github.com/perma-id/w3id.org/pull/1922) for [this version of the vocabulary](https://acka47.github.io/skohub-example-subjects/w3id.org/acka7/subjects/index.html) looks like:
 
-![Screenshot of w3id pull request](/img/w3id-pr.png)
+[![Screenshot of w3id pull request](/img/w3id-pr.png)](https://github.com/perma-id/w3id.org/pull/1922/files)
 
 # Step 6: Publish and use it
 
