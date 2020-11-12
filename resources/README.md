@@ -32,7 +32,7 @@ The main modules have a dedicated post:
 
 ### Install SkoHub Vocabs
 
-[![Video](/img/skohub-vocabs-local-setup.png)](https://www.youtube.com/watch?v=d3RRWt16F8w)
+[![Video](/img/skohub-vocabs-local-setup.png)](https://youtu.be/d3RRWt16F8w)
 
 See [here](/resources/install-and-overview-skohub-vocabs.md) for a short summary of the topics covered in the video.
 
@@ -43,6 +43,8 @@ See [here](/resources/install-and-overview-skohub-vocabs.md) for a short summary
 See [here](/resources/install-and-overview-skohub-editor.md) for a short summary of the topics covered in the video.
 
 ## 3 Using SkoHub Docker version
+
+[![Video](/img/skohub-docker-vocabs.png)](https://youtu.be/NOg6g94NxMk)
 
 See [here](/resources/skohub-docker-vocabs.md) for a short summary of the topics covered in the video.
 
