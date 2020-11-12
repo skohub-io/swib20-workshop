@@ -18,7 +18,7 @@ For a start, I need a basic list of school subjects: maths, english, science, hi
 
 ## Step 3: Make it SKOS
 
-- Use an already functioning vocabulary as template, e.g. the [example vocab created for this tutorial](https://github.com/acka47/skohub-docker-vocabs/blob/master/subjects.ttl).
+- Use an already functioning vocabulary as template, e.g. the example vocab created for this tutorial ([hash URI & purl.org version](https://github.com/acka47/skohub-docker-vocabs/blob/master/subjects.ttl), [slash URI and w3id version](https://github.com/acka47/skohub-example-subjects/blob/master/subjects-w3id.ttl)).
 - Decisions to make:
     - Hash or slash URIs? 
     - Should I use a persistent identifier scheme? If yes, which one: [w3id.org](https://w3id.org/), [PURL](http://purl.org)?
@@ -37,6 +37,14 @@ There is some granularity missing with "foreign languages". I want to add specif
 # Step 6: Set up redirect for persistent identifiers
 
 If you are using PURL or w3id, you have to set up the redirect so that the permanent URIs resolve.
+
+This is how the the purl.org config looks like setting up the redirect for [this vocabulary](https://acka47.github.io/skohub-example-subjects/purl.org/acka47/subjects.html):
+
+![Screenshot of purl.org configuration](/img/setup-purl-redirect.png)
+
+To set up the w3id redirect, you have to clone the [w3id repo](https://github.com/perma-id/w3id.org) and make a pull request that contains a [.htaccess](https://en.wikipedia.org/wiki/.htaccess) config for the namespace. As soon as such a pull request is merged, the redirect will work. As an example, this is what the changes in the [pull request](https://github.com/perma-id/w3id.org/pull/1922) for [this version of the vocabulary](https://acka47.github.io/skohub-example-subjects/w3id.org/acka7/subjects/index.html) looks like:
+
+![Screenshot of w3id pull request](/img/w3id-pr.png)
 
 # Step 6: Publish and use it
 
