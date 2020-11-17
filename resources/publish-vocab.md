@@ -30,22 +30,26 @@ For a start, I need a basic list of school subjects: maths, english, science, hi
     - Web-based tools like [RDF translator](https://rdf-translator.appspot.com/)
 - Even better: validate SKOS, e.g. by using the web-based [SKOS testing tool](https://labs.sparna.fr/skos-testing-tool/)
 
-# Step 5: Add some hierarchy to the vocabulary
+## Step 5: Add some hierarchy to the vocabulary
 
 There is some granularity missing with "foreign languages". I want to add specific languages to better classify the material. We use `skos:broader`/`skos:narrower` to add sub-concepts to `foreignLanguages`.
 
-# Step 6: Set up redirect for persistent identifiers
+## Step 6: Set up redirect for persistent identifiers
 
 If you are using PURL or w3id, you have to set up the redirect so that the permanent URIs resolve.
+
+### Configuring purl.org
 
 This is how the the purl.org config looks like setting up the redirect for [this vocabulary](https://acka47.github.io/skohub-example-subjects/purl.org/acka47/subjects.html):
 
 ![Screenshot of purl.org configuration](/img/setup-purl-redirect.png)
 
+### Configuring w3id
+
 To set up the w3id redirect, you have to clone the [w3id repo](https://github.com/perma-id/w3id.org) and make a pull request that contains a [.htaccess](https://en.wikipedia.org/wiki/.htaccess) config for the namespace. As soon as such a pull request is merged, the redirect will work. As an example, this is what the changes in the [pull request](https://github.com/perma-id/w3id.org/pull/1922) for [this version of the vocabulary](https://acka47.github.io/skohub-example-subjects/w3id.org/acka47/subjects/index.html) looks like:
 
 [![Screenshot of w3id pull request](/img/w3id-pr.png)](https://github.com/perma-id/w3id.org/pull/1922/files)
 
-# Step 6: Publish and use it
+## Step 6: Publish and use it
 
 Now you can use the concept URIs when describing a resource. As SkoHub Vocabs provides a [FlexSearch](https://github.com/nextapps-de/flexsearch) index  (to view it just use the file extension `.index` with the vocab URL, e.g. https://acka47.github.io/skohub-example-subjects/purl.org/acka47/subjects.index), you can easily integrate a lookup in every website. The SkoHub Editor – which will be covered in the next tutorial – also let's you configure SKOS lookup for a field in a web form.

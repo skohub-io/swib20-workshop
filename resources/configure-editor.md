@@ -46,9 +46,9 @@ We want all our documents to be [JSON-LD](https://json-ld.org/) and thus declare
 }
 ```
 
-**Note**: As you can see, there is also a `@language` definition in the context. By adding the [`@language` JSON-LD keyword]() to the context like this, all strings not tagged otherwise will be language tagged with `en`.
-
-**Note**: This does not validate the data for a context but does only add the `@context` object per default to the data in SkoHub Editor. Thus, when opening the editor, the context is already there:
+**Note**:
+- This does not validate the data for a context but does only add the `@context` object per default to the data in SkoHub Editor. Thus, when opening the editor, the context is already there:
+- As you can see, there is also a `@language` definition in the context. By adding the [`@language` JSON-LD keyword]() to the context like this, all strings not tagged otherwise will be language tagged with `en`.
 
 [![Screenshot of a freshly loaded SkoHub Editor](/img/skohub-editor.png)](https://skohub.io/editor/)
 
