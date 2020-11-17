@@ -30,7 +30,7 @@ The main modules have a dedicated post:
 
 ## 2 Installation
 
-**Note**: It is not required to install SkoHub locally or on a server – neither for the workshop nor to use the modules. You can continue with [3 Using SkoHub Docker version](https://github.com/skohub-io/swib20-workshop/tree/main/resources#3-using-skohub-docker-version) if you just want to try it out using GitHub Pages. 
+❗❗❗ **Note**: It is not required to install SkoHub locally or on a server – neither for the workshop nor to use the modules. You can continue with [3 Using SkoHub Docker version](https://github.com/skohub-io/swib20-workshop/tree/main/resources#3-using-skohub-docker-version) if you just want to try it out using GitHub Pages. ❗❗❗
 
 ### Install SkoHub Vocabs
 
