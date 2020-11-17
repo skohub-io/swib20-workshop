@@ -52,9 +52,11 @@ See [here](/resources/skohub-docker-vocabs.md) for a short summary of the topics
 
 [![Video](/img/publish-vocab.png)](https://youtu.be/b3uwi4A5NhM)
 
-See [here](/resources/publish-vocab.md) for a write up of the steps shown in the recording
+See [here](/resources/publish-vocab.md) for a write up of the steps shown in the recording.
 
 ## 5 Configuring the SkoHub Editor with JSON Schema
+
+See [here](/resources/configure-editor.md) for a write up of the steps shown in the recording.
 
 ## 6 Subscribe and publish to SKOS concepts with SkoHub PubSub
 
