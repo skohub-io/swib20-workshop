@@ -66,4 +66,14 @@ See [here](/resources/configure-editor.md) for a write up of the steps shown in 
 
 ### Wir lernen online
 
-### KIM – Competence Centre for Interoperable Metadata
+### Using SkoHub to develop metadata recommendations within KIM
+
+The "OER Metadata" group (OER = Open Educational resources) within the Competence Centre for Interoperable Metadata (KIM) uses SkoHub Vocabs and SkoHub Editor to develop recommendations for a metadata profile and controlled vocabularies to be used when publishing OER in the German-speaking world. The following talk gives some insight into the processes:
+
+[![Video](/img/kim-lrmi-at-dcmi.png)](https://youtu.be/9UZVHNZ_zLA)
+
+See also:
+- [Repository with metadata profile & tests](https://github.com/dini-ag-kim/lrmi-profile)
+- [Resource type vocabulary (HCRT)](https://w3id.org/kim/hcrt/scheme)
+- [Classification of Higher Ed subjects](https://w3id.org/kim/hochschulfaechersystematik/scheme)
+- [OER Search Index – OERSI](https://oersi.de/) which harvests metadata from different sources, transforms it according to the profile and offers the index for search
