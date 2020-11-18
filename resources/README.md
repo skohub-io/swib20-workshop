@@ -73,6 +73,7 @@ The "OER Metadata" group (OER = Open Educational resources) within the Competenc
 [![Video](/img/kim-lrmi-at-dcmi.png)](https://youtu.be/9UZVHNZ_zLA)
 
 See also:
+- [Slides for the above talk](https://slides.lobid.org/dcmi2020)
 - [Repository with metadata profile & tests](https://github.com/dini-ag-kim/lrmi-profile)
 - [Resource type vocabulary (HCRT)](https://w3id.org/kim/hcrt/scheme)
 - [Classification of Higher Ed subjects](https://w3id.org/kim/hochschulfaechersystematik/scheme)
