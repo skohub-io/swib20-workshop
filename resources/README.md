@@ -62,9 +62,13 @@ See [here](/resources/configure-editor.md) for a write up of the steps shown in 
 
 ## 6 Subscribe and publish to SKOS concepts with SkoHub PubSub
 
-## 7 Using SkoHub in the wild
+## 7 SkoHub in the wild
+
+This section gives you an impression how SkoHub can help realizing different tasks. In two videos it is shown how SkoHub modules are currently used at [Wir lernen online](https://wirlernenonline.de/) (="We learn online", a project to enable discovery of learning materials and tools for teachers, parents and students) and in the context KIM (=Competence Centre for Interoperable Metadata.
 
 ### Wir lernen online
+
+coming soon
 
 ### Using SkoHub to develop metadata recommendations within KIM
 
