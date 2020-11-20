@@ -211,6 +211,9 @@ Of course we also want to assign one of the [school subjects vocabulary]() to th
   "_widget":"SkohubLookup"
 }
 ```
+## Check for valid JSON
+
+As in the last tutorial (see [here](https://github.com/skohub-io/swib20-workshop/blob/main/resources/publish-vocab.md#step-4-validate--push-to-github)), we should also validate our JSON Schema before publishing it online to run SkoHub Editor with it. As so often, there are numerous ways to do it. For example,you can install a tool like jsonlint for the command line, use it online at https://jsonlint.com/ or – what I prefer – use https://jsonformatter.curiousconcept.com/.
 
 ## The result
 
