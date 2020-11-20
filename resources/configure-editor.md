@@ -218,7 +218,7 @@ The whole schema is published at [https://github.com/acka47/skohub-example-json-
 
 https://skohub.io/editor/?schema=https://raw.githubusercontent.com/acka47/skohub-example-json-schema/main/schema.json
 
-## Splitting a schema into several files 
+## Splitting a schema into several files (Optional)
 
 A schema can be split up into many files. There can be several reasons for this:
 
