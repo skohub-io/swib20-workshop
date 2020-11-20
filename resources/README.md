@@ -34,25 +34,25 @@ The main modules have a dedicated post:
 
 ### Install SkoHub Vocabs
 
-[![Video](/img/skohub-vocabs-local-setup.png)](https://youtu.be/d3RRWt16F8w)
+[![Video](/img/skohub-vocabs-local-setup.png)](https://www.youtube.com/watch?v=d3RRWt16F8w&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=1)
 
 See [here](/resources/install-and-overview-skohub-vocabs.md) for a short summary of the topics covered in the video.
 
 ### Install SkoHub Editor & Extension
 
-[![Video](/img/skohub-editor-extension.png)](https://youtu.be/Fn_4HiQdzx4)
+[![Video](/img/skohub-editor-extension.png)](https://www.youtube.com/watch?v=Fn_4HiQdzx4&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=2)
 
 See [here](/resources/install-and-overview-skohub-editor.md) for a short summary of the topics covered in the video.
 
 ## 3 Using SkoHub Docker version
 
-[![Video](/img/skohub-docker-vocabs.png)](https://youtu.be/NOg6g94NxMk)
+[![Video](/img/skohub-docker-vocabs.png)](https://www.youtube.com/watch?v=NOg6g94NxMk&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=3)
 
 See [here](/resources/skohub-docker-vocabs.md) for a short summary of the topics covered in the video.
 
 ## 4 Publishing a small controlled vocabulary with SkoHub Vocabs
 
-[![Video](/img/publish-vocab.png)](https://youtu.be/b3uwi4A5NhM)
+[![Video](/img/publish-vocab.png)](https://www.youtube.com/watch?v=b3uwi4A5NhM&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=4)
 
 See [here](/resources/publish-vocab.md) for a write up of the steps shown in the recording.
 
@@ -66,13 +66,13 @@ This section gives you an impression how SkoHub can help realizing different tas
 
 ### Wir lernen online
 
-coming soon
+[![Video](https://www.youtube.com/watch?v=rAype56JzIw&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=5)]
 
 ### Using SkoHub to develop metadata recommendations within KIM
 
 The "OER Metadata" group (OER = Open Educational resources) within the Competence Centre for Interoperable Metadata (KIM) uses SkoHub Vocabs and SkoHub Editor to develop recommendations for a metadata profile and controlled vocabularies to be used when publishing OER in the German-speaking world. The following talk gives some insight into the processes:
 
-[![Video](/img/kim-lrmi-at-dcmi.png)](https://youtu.be/9UZVHNZ_zLA)
+[![Video](/img/kim-lrmi-at-dcmi.png)](https://www.youtube.com/watch?v=9UZVHNZ_zLA&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=6)
 
 See also:
 - [Slides for the above talk](https://slides.lobid.org/dcmi2020)
