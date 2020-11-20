@@ -54,7 +54,7 @@ We want all our documents to be [JSON-LD](https://json-ld.org/) and thus declare
 
 ## Add fields
 
-All properties of a JSON document (which are three fields in SkoHub Editor) are configured in the `properties` object of the JSON Schema.
+All properties of a JSON document (which are the fields in SkoHub Editor) are configured in the `properties` object of the JSON Schema.
 
 ### Add title & description field
 
