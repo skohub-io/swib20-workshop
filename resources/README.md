@@ -66,7 +66,7 @@ This section gives you an impression how SkoHub can help realizing different tas
 
 ### Wir lernen online
 
-[![Video](https://www.youtube.com/watch?v=rAype56JzIw&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=5)]
+[![Video](/img/wlo.png)](https://www.youtube.com/watch?v=rAype56JzIw&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=5)
 
 ### Using SkoHub to develop metadata recommendations within KIM
 
