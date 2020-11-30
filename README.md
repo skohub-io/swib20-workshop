@@ -1,6 +1,6 @@
 # SkoHub Workshop at SWIB20
 
-This repository contains material for the [SkoHub workshop at SWIB20](https://swib.org/swib20/programme.html#abs08). The workshop includes short video presentatios and hands-on exercises, which can be explored via the [**overview page**](resources/README.md). 
+This repository contains material for the [SkoHub workshop at SWIB20](https://swib.org/swib20/programme.html#abs08). The workshop includes short video presentations and hands-on exercises, which can be explored via the [**overview page**](resources/README.md).
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ This repository contains material for the [SkoHub workshop at SWIB20](https://sw
 
 ## Online workshop session
 
-The online session for this workshop will take place in BigBlueButton on 2020-11-24, from UTC 14:00 to 16:30 (click [here](https://zonestamp.toolforge.org/1604412004) for your local time). The number of participants is capped for practical reasons and already booked out. Please drop us a mail to skohub\[at\]hbz-nrw\[dot\]de if you want to go on the waiting list and we will see what we can do.
+An online session for this workshop took place in BigBlueButton on 2020-11-24, from UTC 14:00 to 16:30. See the [slides](https://pad.gwdg.de/p/HJeIvDvq5w#/) for the agenda. 
 
 ## Authors
 
