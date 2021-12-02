@@ -44,7 +44,7 @@ See [here](/resources/install-and-overview-skohub-vocabs.md) for a short summary
 
 See [here](/resources/install-and-overview-skohub-editor.md) for a short summary of the topics covered in the video.
 
-## 3 Using SkoHub Docker version
+## 3 Using SkoHub Vocabs Docker version
 
 [![Video](/img/skohub-docker-vocabs.png)](https://www.youtube.com/watch?v=NOg6g94NxMk&list=PLrmEmCIn1rMbucrjKdXBpMSmsca4WfXiv&index=3)
 
