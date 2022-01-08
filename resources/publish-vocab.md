@@ -18,7 +18,7 @@ For a start, I need a basic list of school subjects: maths, english, science, hi
 
 ## Step 3: Make it SKOS
 
-- Use an already functioning vocabulary as template, e.g. the example vocab created for this tutorial ([hash URI & purl.org version](https://github.com/acka47/skohub-docker-vocabs/blob/master/subjects.ttl), [slash URI and w3id version](https://github.com/acka47/skohub-example-subjects/blob/master/subjects-w3id.ttl)).
+- Use an already functioning vocabulary as template, e.g. the example vocab created for this tutorial ([hash URI & purl.org version](https://github.com/acka47/skohub-example-subjects/blob/master/subjects.ttl), [slash URI and w3id version](https://github.com/acka47/skohub-example-subjects/blob/master/subjects-w3id.ttl)).
 - Decisions to make:
     - Hash or slash URIs? 
     - Should I use a persistent identifier scheme? If yes, which one: [w3id.org](https://w3id.org/), [PURL](http://purl.org)?
